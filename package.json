@@ -1,0 +1,41 @@
+{
+  "name": "this_is_me",
+  "version": "1.0.0",
+  "description": "ExpressJS and NodeJS to create back-end app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenorman/Express_Yourself.git"
+  },
+  "keywords": [
+    "express",
+    "yourself",
+    "back-end",
+    "emoji",
+    "app",
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "server",
+    "api",
+    "routes",
+    "requests",
+    "post",
+    "put",
+    "delete",
+    "get"
+  ],
+  "author": "Lee Ann Norman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenorman/Express_Yourself/issues"
+  },
+  "homepage": "https://github.com/leenorman/Express_Yourself#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
